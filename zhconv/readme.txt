@@ -1,4 +1,4 @@
-#source£ºhttps://github.com/skydark/nstools/tree/master/zhtools
+#source:https://github.com/skydark/nstools/tree/master/zhtools
 
 #how to use
 
