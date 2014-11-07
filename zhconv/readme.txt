@@ -4,11 +4,11 @@
 
 from langconv import *
 
-# ·±¡ú¼ò
+# traditional->simplified
 line = Converter('zh-hans').convert(line.decode('utf-8'))
 line = line.encode('utf-8')
 
 
-# ¼ò¡ú·±
+# simplified->traditional
 line = Converter('zh-hant').convert(line.decode('utf-8'))
 line = line.encode('utf-8')
